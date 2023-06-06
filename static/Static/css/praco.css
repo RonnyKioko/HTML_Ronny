@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: bisque;
+    font-family: "Abyssinica SIL";
+    font-size: larger;
+}
+h2{
+    color: coral;
+    font-size: large;
+    font-family: inherit;
+}
+h3{
+    color: indigo;
+    font-family: FreeSans;
+}
+ul{
+    color: crimson;
+    font-family: "Droid Sans Mono";
+}
+ol{
+    color: darkgoldenrod;
+    font-family: FreeMono;
+}

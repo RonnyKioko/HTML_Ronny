@@ -1,0 +1,81 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover{
+    background-color:red;
+    color: aqua;
+}
+.fruits{
+    background-color: aqua;
+    border: 2px solid blue;
+    margin: 15px;
+    text-align: center;
+    padding: 15px;
+}
+.cars{
+    background-color: chocolate;
+    border: 5px dotted red;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Nimbus Mono L";
+    text-align: left;
+}
+.FRUITS{
+    background-color: darkorange;
+    border: 8px dot-dash greenyellow;
+    margin: 10px;
+    padding: 25px;
+    font-family: "Noto Sans Mono";
+    text-align: right;
+}
+.cookies{
+    background-color: green;
+    border: black 3px dot-dot-dash;
+    margin: 12px;
+    padding: 18px;
+    font-family: "Droid Sans Mono Dotted";
+    text-align: left;
+}
+.food{
+    background-color: darkgoldenrod;
+    border: forestgreen 6px solid;
+    margin: 16px;
+    padding: 12px;
+    font-family: "Lohit Bengali";
+    text-align: center;
+}
+.houses{
+    background-color: mediumslateblue;
+    border: slateblue 7px dotted;
+    font-family: KacstOne;
+    padding: 14px;
+    margin: 13px;
+}
+#matunda{
+    background-color: green;
+    border: 5px dotted red;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#magari{
+    background-color: deeppink;
+    margin: 15px;
+    padding: 12px;
+    text-align: right;
+    font-family: "Fira Code Light";
+    border: magenta 6px solid;
+}
